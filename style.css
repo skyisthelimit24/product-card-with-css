@@ -271,7 +271,8 @@ body {
   position: relative;
   padding: 12px 20px;
   border-radius: 12px;
-  font-size: 1rem;
+  font-family: poppins;
+  font-weight: 600;
   color: white;
   background: hsl(244, 100%, 42%);
   will-change: transform;
